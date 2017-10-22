@@ -1,8 +1,8 @@
-# npm update
+# npm outdated
 
 ## 原文链接
 
-* [npm-update](https://docs.npmjs.com/cli/update)
+* [npm-uninstall](https://docs.npmjs.com/cli/outdated)
 
 ## 声明
 

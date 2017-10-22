@@ -1,8 +1,8 @@
-# npm update
+# npm-dist-tag
 
 ## 原文链接
 
-* [npm-update](https://docs.npmjs.com/cli/update)
+* [npm-dist-tag](https://docs.npmjs.com/cli/dist-tag)
 
 ## 声明
 
