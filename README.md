@@ -6,6 +6,12 @@
 
 ## 文档超链接
 
+* [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
+* [outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
+* [profile](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
+* [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md)
+* [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
+
 ## 声明
 
 该仓库所有文件翻译自[NPM官方文档](https://github.com/NinjiaHub/Tools-Tricks/blob/master/documents/npm)，如有版权问题请联系作者。
