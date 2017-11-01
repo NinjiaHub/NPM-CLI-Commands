@@ -56,6 +56,12 @@ $ npm outdated [[<@scope>/]<pkg> ...]
 
 设置要检查的依赖树的深度
 
+### See Also
+
+* [npm-update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
+* [npm-dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
+* []()
+
 ## 原文链接
 
 * [npm-uninstall](https://docs.npmjs.com/cli/outdated)
