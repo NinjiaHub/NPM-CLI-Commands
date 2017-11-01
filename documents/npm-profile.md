@@ -1,8 +1,8 @@
 # npm profile
 
-### 修改注册表中的设置
+**修改注册表中的设置**
 
-#### 梗概
+### 梗概
 
 ```npm
 npm profile get [--json|--parseable] [<property>]
@@ -12,7 +12,7 @@ npm profile enable-2fa [auth-and-writes|auth-only]
 npm profile disable-2fa
 ```
 
-#### 描述
+### 描述
 
 修改注册表中的信息。如果使用的不是npm注册表则该命令无效。
 
@@ -49,7 +49,7 @@ npm profile disable-2fa
 	* **auth-and-writes**：包括在**auth-only**模式中需要输入OTP的场景，以及发布模块、设置**latest**标签、通过**npm access**和**npm owner**修改权限，都需要输入OTP。
 * **npm profile disable-2fa**：关闭双因子验证(2FA)。
 
-#### 详情
+### 详情
 
 `npm profile`命令的所有子命令都接受`--json`和`--parseable`选项，并且会根据输入的选项定制输出结果。其中一些子命令在非npm官网的注册表中可能是无效的。
 
