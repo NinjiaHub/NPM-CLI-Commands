@@ -43,7 +43,7 @@ once           1.3.2    1.3.3    1.3.3  test-outdated-output
 ```
 
 * **glob** 的版本要求是 **^5**，所以npm不能安装 **glob@6**，因为 **glob@6** 不符合SemVer规定的版本范围。
-* 使用Git指定的依赖每次都会重新安装。已经安装的[committish(commit-ish)](https://git-scm.com/docs/gitglossary#def_commit_object)可能复合依赖说明符()，也可能不符合，所以 `npm outdated` 和 `npm update` 需要从Git仓库拉取代码来检查。这也是为什么现在重新安装一个Git指定的依赖需要强制克隆然后安装的原因。
+* 使用Git指定的依赖每次都会重新安装。已经安装的[committish(commit-ish)](https://git-scm.com/docs/gitglossary#def_commit_object)可能符合依赖说明符(如果是一个不可变的符号，如提交对象的SHA)，也可能不符合，所以 `npm outdated` 和 `npm update` 需要从Git仓库拉取代码来检查。这也是为什么现在重新安装一个Git指定的依赖需要强制克隆然后安装的原因。
 * **npm@3.5.2** 被标记为 **wanted**，但是 **latest** 却是指 **npm@3.5.1** 版本，这是因为npm使用 **dist-tags** 来管理 **latest** 和 **next** 发布通道。**npm update** 总是会安装最新版本，而 **npm install npm** 则会安装被打上 **latest** 标签的版本。
 * **once** 只是单纯的过气了。重新安装 **node_modules** 或者运行 **npm update** 命令将会安装最新版本。
 
