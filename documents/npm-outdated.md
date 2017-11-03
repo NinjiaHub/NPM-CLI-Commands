@@ -88,11 +88,10 @@ once           1.3.2    1.3.3    1.3.3  test-outdated-output
 
 * [npm-update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
 * [npm-dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
-* []()
 
 ## 原文链接
 
-* [npm-uninstall](https://docs.npmjs.com/cli/outdated)
+* [npm-outdated](https://docs.npmjs.com/cli/outdated)
 
 ## 声明
 
