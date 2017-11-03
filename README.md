@@ -7,7 +7,7 @@
 ## 文档超链接 🔗
 * [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
 * [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
-* [outdated](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
+* [outdated  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
 * [profile ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
 * [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md)
 * [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
