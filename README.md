@@ -5,13 +5,13 @@
 文档顺序为字典顺序。
 
 ## 文档超链接 🔗
-* [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md)
-* [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
-* [outdated  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md)
-* [profile ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md)
-* [token ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md)
-* [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md)
-* [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
+* [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
+* [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md "npm-dist-tag")
+* [outdated  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md "npm-outdated")
+* [profile ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md "npm-profile")
+* [token ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md "npm-token")
+* [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md "npm-uninstall")
+* [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md "npm-update")
 
 ## 声明
 
