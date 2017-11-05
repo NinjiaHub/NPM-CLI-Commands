@@ -101,9 +101,9 @@ once           1.3.2    1.3.3    1.3.3  test-outdated-output
 
 内容如有不恰当或错误，敬请指正。
 
-译者邮箱：web.taox@gmail.com。
+译者邮箱：<web.taox@gmail.com>
 
 ## Translator Info
 
 * [GitHub](https://github.com/Tao-Quixote)
-* Email: web.taox@gmail.com
+* Email: <web.taox@gmail.com>
