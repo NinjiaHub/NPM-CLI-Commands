@@ -7,12 +7,15 @@
 ## 文档超链接 🔗
 * [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 * [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md "npm-dist-tag")
+* [ls  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
 * [outdated  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md "npm-outdated")
 * [profile ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md "npm-profile")
 * [prune ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
 * [token ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md "npm-token")
 * [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md "npm-uninstall")
 * [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md "npm-update")
+
+**注：✔️符号表示该文档翻译完成。命令后没有✔️符号的命令，由于别的文档有依赖，所以是在占位是加入的，因此还没翻译完。**
 
 ## 声明
 
