@@ -14,6 +14,7 @@
 * [token ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md "npm-token")
 * [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md "npm-uninstall")
 * [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md "npm-update")
+* [whoami ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-whoami.md "npm-whoami")
 
 **注：✔️符号表示该文档翻译完成。命令后没有✔️符号的命令，由于别的文档有依赖，所以是在占位是加入的，因此还没翻译完。**
 
