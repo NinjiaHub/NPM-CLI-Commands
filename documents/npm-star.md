@@ -17,7 +17,7 @@ npm unstar [<pkg>...]
 
 这是一件只有两面(喜欢或者不喜欢)的事情。重复给一个npm包 **star** 没有额外的效果，即 **star** 只能给一次。
 
-### See
+### See Also
 
 * [npm-view](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-view.md "npm-view")
 * [npm-whoami](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-whoami.md "npm-whoami")
