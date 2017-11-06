@@ -12,7 +12,7 @@ $ npm whoami [--registry <registry>]
 
 打印配置中的 **username** 到标准输出。
 
-## See Also
+### See Also
 
 * [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 * [npm-adduser](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-adduser")
