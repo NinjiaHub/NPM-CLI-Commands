@@ -5,10 +5,13 @@
 文档顺序为字典顺序。
 
 ## 文档超链接 🔗
+
+* [bin  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
 * [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 * [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md "npm-dist-tag")
 * [ls  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
 * [outdated  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md "npm-outdated")
+* [prefix  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prefix.md "npm-prefix")
 * [profile ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md "npm-profile")
 * [prune ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
 * [star ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-star.md "npm-star")
