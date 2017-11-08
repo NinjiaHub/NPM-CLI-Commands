@@ -14,6 +14,7 @@
 * [prefix  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prefix.md "npm-prefix")
 * [profile ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-profile.md "npm-profile")
 * [prune ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prune.md "npm-prune")
+* [repo ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-repo.md "npm-repo")
 * [star ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-star.md "npm-star")
 * [stars ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stars.md "npm-stars")
 * [token ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md "npm-token")
