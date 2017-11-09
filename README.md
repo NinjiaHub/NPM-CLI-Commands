@@ -7,6 +7,7 @@
 ## 文档超链接 🔗
 
 * [bin  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
+* [bugs ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bugs.md "npm-bugs")
 * [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 * [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md "npm-dist-tag")
 * [ls  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
