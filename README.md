@@ -22,6 +22,7 @@
 * [stars ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stars.md "npm-stars")
 * [start ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-start.md "npm-start")
 * [stop ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stop.md "npm-stop")
+* [test ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-test.md "npm-test")
 * [token ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-token.md "npm-token")
 * [uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md "npm-uninstall")
 * [update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md "npm-update")
