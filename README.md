@@ -1,6 +1,6 @@
 # README
 
-该仓库为[NPM CLI Commands](https://docs.npmjs.com/cli/init)翻译文档。
+该仓库为 [NPM CLI Commands](https://docs.npmjs.com/cli/init) 翻译文档。
 
 文档顺序为字典顺序。
 
