@@ -12,6 +12,7 @@
 * [dedupe ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
 * [docs ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
 * [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md "npm-dist-tag")
+* [help  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help.md "npm-help")
 * [ls  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
 * [outdated  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-outdated.md "npm-outdated")
 * [prefix  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prefix.md "npm-prefix")
