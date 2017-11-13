@@ -11,6 +11,7 @@
 * [config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 * [dedupe ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
 * [docs ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
+* [eidt ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-edit.md "npm-edit")
 * [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md "npm-dist-tag")
 * [help  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help.md "npm-help")
 * [help-search  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help-search.md "npm-help-search")
