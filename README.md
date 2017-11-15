@@ -8,6 +8,7 @@
 
 * [bin  ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bin.md "npm-bin")
 * [bugs ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-bugs.md "npm-bugs")
+* [build ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-build.md "npm-build")
 * [config ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
 * [dedupe ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dedupe.md "npm-dedupe")
 * [docs ✔️](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
