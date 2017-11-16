@@ -19,9 +19,9 @@ npm unstar [<pkg>...]
 
 ### See Also
 
-* [npm-view](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-view.md "npm-view")
-* [npm-whoami](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-whoami.md "npm-whoami")
-* [npm-adduser](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-adduser.md "npm-adduser")
+* [npm-view](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-view "npm-view")
+* [npm-whoami](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-whoami "npm-whoami")
+* [npm-adduser](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-adduser "npm-adduser")
 
 ## 原文链接
 

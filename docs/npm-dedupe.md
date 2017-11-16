@@ -48,9 +48,9 @@ a
 
 ### See Also
 
-* [npm-ls](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md "npm-ls")
-* [npm-update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md "npm-update")
-* [npm-install](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-install.md "npm-install")
+* [npm-ls](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-ls "npm-ls")
+* [npm-update](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-update "npm-update")
+* [npm-install](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-install "npm-install")
 
 ## 原文链接
 

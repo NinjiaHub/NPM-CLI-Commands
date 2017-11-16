@@ -14,8 +14,8 @@ $ npm whoami [--registry <registry>]
 
 ### See Also
 
-* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
-* [npm-adduser](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-adduser")
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
+* [npm-adduser](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-adduser")
 
 ## 原文链接
 

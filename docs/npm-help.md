@@ -62,9 +62,9 @@ npm help package-lock                                                     star:1
 
 ### See Also
 
-* [npm](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm.md "npm")
-* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
-* [npm-help-search](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help-search.md "npm-help-search")
+* [npm](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm "npm")
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
+* [npm-help-search](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-help-search "npm-help-search")
 
 ## 原文链接
 

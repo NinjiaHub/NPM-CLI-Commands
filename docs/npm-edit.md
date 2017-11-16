@@ -10,7 +10,7 @@ npm edit <pkg>[@<version>]
 
 ### 描述
 
-在系统默认编辑器(或者专门配置的 npm 编辑器 - 详情请戳[npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config"))中打开包目录。
+在系统默认编辑器(或者专门配置的 npm 编辑器 - 详情请戳[npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config"))中打开包目录。
 
 在被编辑之后，该包会重新构建以便应用所有的更改。
 
@@ -27,9 +27,9 @@ npm edit <pkg>[@<version>]
 
 ### See Also
 
-* [npm-explore](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-explore.md "npm-explore")
-* [npm-install](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-install.md "npm-install")
-* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
+* [npm-explore](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-explore "npm-explore")
+* [npm-install](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-install "npm-install")
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 
 ## 原文链接
 

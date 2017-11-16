@@ -20,8 +20,8 @@ npm prune [[<@scope>/]<pkg>...] [--production]
 
 ### See Also
 
-* [npm-uninstall](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-uninstall.md)
-* [npm-ls](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-ls.md)
+* [npm-uninstall](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-uninstall)
+* [npm-ls](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-ls)
 
 ## 原文链接
 

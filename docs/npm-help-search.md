@@ -43,8 +43,8 @@ Run by the `npm stop` command.
 
 ### See Also
 
-* [npm](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm.md "npm")
-* [npm-help](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-help.md "npm-help")
+* [npm](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm "npm")
+* [npm-help](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-help "npm-help")
 
 ## 原文链接
 

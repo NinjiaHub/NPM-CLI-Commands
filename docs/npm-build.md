@@ -22,9 +22,9 @@ npm run-script build
 
 ### See Also
 
-* [npm-install](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-install.md "npm-install")
-* [npm-link](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-link.md "npm-link")
-* [npm-scripts](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-scripts.md "npm-scripts")
+* [npm-install](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-install "npm-install")
+* [npm-link](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-link "npm-link")
+* [npm-scripts](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-scripts "npm-scripts")
 
 ## 原文链接
 

@@ -43,7 +43,7 @@ npm profile disable-2fa
 ```
 
 * **npm profile set \<property> \<value>**：设置指定项的值。可以通过该方式设置如下项的值：email，fullname，homepage，freenode，twitter，github。
-* **npm profile set password**：重置密码。该命令是交互式的，在使用时会提示输入当前密码和新密码。如果开启了[2FA](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E4%B8%AD%E4%BD%BF%E7%94%A82FA.md)，还会要求输入OTP。
+* **npm profile set password**：重置密码。该命令是交互式的，在使用时会提示输入当前密码和新密码。如果开启了[2FA](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/npm%E4%B8%AD%E4%BD%BF%E7%94%A82FA)，还会要求输入OTP。
 * **npm profile enable-2fa [auth-and-writes|auth-only]**：开启2FA，默认使用**auth-and-writes**模式。模式详情：
 	* **auth-only**：在登陆或者修改账户认证方式的时候要求输入OTP。涉及前面的操作时，[npm官网](npmjs.com)和命令行都要求输入OTP。
 	* **auth-and-writes**：包括在**auth-only**模式中需要输入OTP的场景，以及发布模块、设置**latest**标签、通过**npm access**和**npm owner**修改权限，都需要输入OTP。
@@ -55,7 +55,7 @@ npm profile disable-2fa
 
 ### See Also
 
-* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-dist-tag)
 
 ## 原文链接
 

@@ -16,10 +16,10 @@ aliases: t, tst
 
 ### See Also
 
-* [npm-run-script](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-run-script.md "npm-run-script")
-* [npm-start](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-start.md "npm-start")
-* [npm-restart](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-restart.md "npm-restart")
-* [npm-stop](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stop "npm-stop")
+* [npm-run-script](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-run-script "npm-run-script")
+* [npm-start](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-start "npm-start")
+* [npm-restart](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-restart "npm-restart")
+* [npm-stop](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-stop "npm-stop")
 
 ## 原文链接
 

@@ -14,8 +14,8 @@ $ npm outdated [[<@scope>/]<pkg> ...]
 
 输出结果：
 
-* **wanted**：是指该包符合**package.json**文件中声明的符合 [SemVer](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer.md) 范围的最大版本。如果没有可以使用的 SemVer 版本范围(例如使用 `npm outdated --global` 命令，或者该包在**package.json**文件中没有记录)，**wanted**这一列将会显示当前安装的版本号。
-* **latest**：这一列中列出的是注册表中该包被打上**latest**标签的版本。使用**npm publish**命令时如果没有特殊的配置，则该包会被在发布时被打上**latest**的标签。**latest**标签标识的并不一定是该包的最大版本，也不一定是该包最近发布的版本，具体结果取决于开发者如何管理 **latest** [dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)。
+* **wanted**：是指该包符合**package.json**文件中声明的符合 [SemVer](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/getting-started/SemVer) 范围的最大版本。如果没有可以使用的 SemVer 版本范围(例如使用 `npm outdated --global` 命令，或者该包在**package.json**文件中没有记录)，**wanted**这一列将会显示当前安装的版本号。
+* **latest**：这一列中列出的是注册表中该包被打上**latest**标签的版本。使用**npm publish**命令时如果没有特殊的配置，则该包会被在发布时被打上**latest**的标签。**latest**标签标识的并不一定是该包的最大版本，也不一定是该包最近发布的版本，具体结果取决于开发者如何管理 **latest** [dist-tag](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-dist-tag)。
 * **location**：是指该包在依赖树中的层级位置。注意 **npm outdated** 命令默认使用**depth=0**，所以如果没有复写该选项，则只会输出过期的顶层依赖。
 * **package type**(当使用--long／-l选项时)：显示一个包是**生产环境依赖(dependency)**还是**开发环境依赖(devDependency)**，**package.json**文件中没有记录的文件会被标识为**生产环境依赖**。
 
@@ -86,8 +86,8 @@ once           1.3.2    1.3.3    1.3.3  test-outdated-output
 
 ### See Also
 
-* [npm-update](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-update.md)
-* [npm-dist-tag](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-dist-tag.md)
+* [npm-update](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-update)
+* [npm-dist-tag](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-dist-tag)
 
 ## 原文链接
 

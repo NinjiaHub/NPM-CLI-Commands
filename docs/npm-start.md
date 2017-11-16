@@ -12,14 +12,14 @@ npm start [-- <args>]
 
 该命令直接执行在 **package.json** 文件 **scripts** 对象中 **start** 属性指定的命令。如果 **scripts** 对象中没有声明 **start** 属性，则执行 **node server.js** 命令。
 
-从[npm@2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)起，可以在执行脚本时传递自定义的参数。详情请参考[npm-run-scripts](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-run-script.md "npm-run-script")。
+从[npm@2.0.0](http://blog.npmjs.org/post/98131109725/npm-2-0-0)起，可以在执行脚本时传递自定义的参数。详情请参考[npm-run-scripts](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-run-script "npm-run-script")。
 
 ### See Also
 
-* [npm-run-script](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-run-script.md "npm-run-script")
-* [npm-test](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-test.md "npm-test")
-* [npm-restart](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-restart.md "npm-restart")
-* [npm-stop](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-stop "npm-stop")
+* [npm-run-script](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-run-script "npm-run-script")
+* [npm-test](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-test "npm-test")
+* [npm-restart](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-restart "npm-restart")
+* [npm-stop](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-stop "npm-stop")
 
 ## 原文链接
 

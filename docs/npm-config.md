@@ -20,7 +20,7 @@ aliases: c
 
 npm 从命令行、环境变量、**npmrc** 文件获取配置信息，有些情况下，也会从 **package.json** 文件获取。
 
-戳👉[npmrc](https://github.com/NinjiaHub/Tools-Tricks/blob/master/npm/documents/config-npm/npmrc.md)获取更多关于 **npmrc** 的信息。
+戳👉[npmrc](https://ninjiahub.github.io/Tools-Tricks/npm/docs/config-npm/npmrc)获取更多关于 **npmrc** 的信息。
 
 **npm config** 命令可以用来更修／修改用户或者全局 **npmrc** 文件的内容。
 

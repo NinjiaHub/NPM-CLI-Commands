@@ -27,8 +27,8 @@ npm repo [<pkg>]
 
 ### See Also
 
-* [npm-docs](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-docs.md "npm-docs")
-* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
+* [npm-docs](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-docs "npm-docs")
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 
 ## 原文链接
 

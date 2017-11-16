@@ -14,9 +14,9 @@ npm bin [-g|--global]
 
 ### See Also
 
-* [npm-prefix](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-prefix.md "npm-prefix")
-* [npm-root](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-root.md "npm-root")
-* [npm-config](https://github.com/NinjiaHub/NPM-CLI-Commands/blob/master/documents/npm-config.md "npm-config")
+* [npm-prefix](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-prefix "npm-prefix")
+* [npm-root](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-root "npm-root")
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 
 ## 原文链接
 
