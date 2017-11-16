@@ -18,7 +18,7 @@ npm prefix [-g]
 
 * [npm-root](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-root "npm-root")
 * [npm-bin](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-bin "npm-bin")
-* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-confi "npm-config")
+* [npm-config](https://NinjiaHub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 
 ## 原文链接
 
