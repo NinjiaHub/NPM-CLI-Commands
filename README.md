@@ -9,6 +9,7 @@
 * [bin  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bin "npm-bin")
 * [bugs ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bugs "npm-bugs")
 * [build ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-build "npm-build")
+* [bundle ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bundle "npm-bundle")
 * [config ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 * [dedupe ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-dedupe "npm-dedupe")
 * [docs ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-docs "npm-docs")
