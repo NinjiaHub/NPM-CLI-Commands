@@ -19,6 +19,7 @@
 * [help-search  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-help-search "npm-help-search")
 * [ls  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-ls "npm-ls")
 * [outdated  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-outdated "npm-outdated")
+* [ping  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-ping "npm-ping")
 * [prefix  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-prefix "npm-prefix")
 * [profile ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-profile "npm-profile")
 * [prune ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-prune "npm-prune")
