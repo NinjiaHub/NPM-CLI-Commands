@@ -10,6 +10,7 @@
 * [bugs ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bugs "npm-bugs")
 * [build ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-build "npm-build")
 * [bundle ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-bundle "npm-bundle")
+* [completion ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-completion "npm-completion")
 * [config ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-config "npm-config")
 * [dedupe ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-dedupe "npm-dedupe")
 * [docs ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-docs "npm-docs")
@@ -44,7 +45,7 @@
 
 如内容有错误，敬请斧正。
 
-作者邮箱：web.taox@gmail.com。
+译者邮箱：<web.taox@gmail.com>
 
 ## Translator Info ✒️
 
