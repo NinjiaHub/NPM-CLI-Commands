@@ -18,6 +18,7 @@
 * [dist-tag](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-dist-tag "npm-dist-tag")
 * [help  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-help "npm-help")
 * [help-search  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-help-search "npm-help-search")
+* [logout  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-logout "npm-logout")
 * [ls  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-ls "npm-ls")
 * [outdated  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-outdated "npm-outdated")
 * [ping  ✔️](https://ninjiahub.github.io/NPM-CLI-Commands/docs/npm-ping "npm-ping")
